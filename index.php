@@ -1,0 +1,2 @@
+<?ph
+each 'hello world';
