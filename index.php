@@ -1,2 +1,0 @@
-<?ph
-each 'hello world';
